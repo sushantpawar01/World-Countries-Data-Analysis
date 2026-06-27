@@ -7,7 +7,7 @@ This mini-project performs Exploratory Data Analysis on a dataset of global coun
 * **Python 3**
 * **pandas**
 * **numpy**
-* **matplotlib** * **seaborn** ---
+---
 
 ## Core Operations
 
